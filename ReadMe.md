@@ -1,4 +1,5 @@
-### Good morning! I am Johann Höpfner
-I am a 14 years old German student interested in maths, information technologies and physics as well as engineering.  
-Being approximately one sixth  of the German <a href="https://www.f1inschools.de/">F1inSchools</a> Team <a href="https://github.com/Celerius-Racing">Celerius Racing</a> I currently mostly work on our the CAD construction.
-My favourite programming language is C# while I use Python for calculator-like tasks.
+"Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say."
+
+„Zu argumentieren, dass Sie keine Privatsphäre brauchen, weil Sie nichts zu verbergen haben, ist so, als würden Sie sagen, dass Sie keine Freiheit der Meinungsäußerung brauchen, weil Sie nichts zu sagen haben.“
+
+Edward Snowden
